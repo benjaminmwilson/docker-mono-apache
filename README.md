@@ -48,7 +48,7 @@ sections of `Web.config`.
         
         </appSettings>
           
-4.  Ignore `build\config` within `.dockerignore`:
+4.  Ignore `build/config` within `.dockerignore`:
 
         Dockerfile
         build/config/*
